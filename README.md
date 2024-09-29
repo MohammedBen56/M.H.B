@@ -24,7 +24,7 @@ A mobile app that allows users to seamlessly share AI-generated videos. This pro
 ### Installation
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/your-username/my-app.git
+   git clone https://github.com/MohammedBen56/M.H.B.git
    cd my-app
 ## 🔗 Resource
 Tutorial: JavaScript Mastery on YouTube
